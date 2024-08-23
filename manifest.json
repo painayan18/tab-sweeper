@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Tab Sweeper",
+    "version": "1.0",
+    "description": "Sort and group tabs based on their URL with just one click.",
+    "permissions": [
+        "tabs"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_popup": "popup,html"
+    }
+}

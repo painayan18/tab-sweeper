@@ -3,7 +3,8 @@
 
 If you're like me with 50 browser tabs open at all times, then you need Tab Sweeper. With the click of a button, organize all your tabs into groups based on website.
 <br/>
-For example
+
+/demo.gif
 
 <br/><br/><br/>
 

@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
-    document.getElementById('cleanupButton').addEventListener('click', () => {
+    document.getElementById('sweepButton').addEventListener('click', () => {
+        let chrome;
         chrome.tabs.query({}, function (tabs) {
             let groups = {};
 
